@@ -211,6 +211,10 @@ sp_event_Balkan:0 "Balkan Unification"
 sp_event_Balkan_QUOTE:0 "Grouping and mutuality of countries and peoples in the Balkans is the only road that leads to economic, national and political liberation. \n- Dimitrije Tucović"
 sp_event_Balkan_REMARK:0 "How long will it last?"
 
+sp_event_Trotsky:0 "Rest in pepperonis"
+sp_event_Trotsky_QUOTE:0 "Lev Trotsky, the former Soviet War Commissar died this evening from the injuries in an attack made on him in his home yesterday. \n "I'm dying at peace, knowing i've won, tell Diego Rivera his wife tasted good" \n- Leon Trotsky"
+sp_event_Trotsky_REMARK:0 "Understandable"
+
 super_info.1.t: "Vanilla Super Events"
 super_info.1.d: "Thank you for using Vanilla Super Events! \n\nEvent audio is controlled through the music player meaning you can now control music volume and even pause it whenever you like (Just don't click on different stations or press the shuffle and skip song buttons while the event audio is playing). \nWhen a Super Event triggers in game, you can also click on the music player to see the name of the song currently playing. \n\nIf you have any questions, feel free to ask me on this mod's Steam page."
 super_info.1.a: "See the latest changes."

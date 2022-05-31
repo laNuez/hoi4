@@ -392,6 +392,13 @@ defined_text = {
 		}
 		localization_key = "sp_event_Balkan"
 	}
+
+	text = {
+		trigger = {
+			has_global_flag = GG_Trotsky
+		}
+		localization_key = "sp_event_Trotsky"
+	}
 }
 
 #Remarks
@@ -788,6 +795,13 @@ defined_text = {
 		}
 		localization_key = "sp_event_Balkan_REMARK"
 	}
+
+	text = {
+		trigger = {
+			has_global_flag = GG_Trotsky
+		}
+		localization_key = "sp_event_Trotsky_REMARK"
+	}
 }
 
 #Quotes
@@ -1183,5 +1197,12 @@ defined_text = {
 			has_global_flag = BUL_Balkan
 		}
 		localization_key = "sp_event_Balkan_QUOTE"
+	}
+	
+	text = {
+		trigger = {
+			has_global_flag = GG_Trotsky
+		}
+		localization_key = "sp_event_Trotsky_QUOTE"
 	}
 }

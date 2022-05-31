@@ -206,3 +206,7 @@ music = {
 	name = "super_balkan_unification"
 	file = "balkan_unification.ogg"
 }
+music = {
+	name = "super_trotsky_death"
+	file = "trotsky_death.ogg"
+}

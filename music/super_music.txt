@@ -311,3 +311,9 @@ music = {
 		factor = 0
 	}
 }
+music = {
+	song = "super_trotsky_death"
+	chance = {
+		factor = 0
+	}
+}

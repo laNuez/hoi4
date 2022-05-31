@@ -190,3 +190,7 @@
   sp_event_Winter_War:0 "La guerra de invierno"
   sp_event_Winter_War_QUOTE:0 "Hemos ganado el suficiente terreno para enterrar a nuestros muertos. \n - General del Ejército Rojo"
   sp_event_Winter_War_REMARK:0 "¿Vale la pena?"
+
+  sp_event_Trotsky:0 "Rest in pepperonis"
+  sp_event_Trotsky_QUOTE:0 "Lev Trotsky, the former Soviet War Commissar died this evening from the injuries in an attack made on him in his home yesterday. \n "I'm dying at peace, knowing i've won, tell Diego Rivera his wife tasted good" \n- Leon Trotsky"
+  sp_event_Trotsky_REMARK:0 "Understandable"

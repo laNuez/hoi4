@@ -302,4 +302,9 @@ spriteTypes = {
 		name = "GFX_sp_event_Balkan"
 		textureFile = "/gfx/sp_events/Super_Event_Balkan.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_sp_event_Trotsky"
+		textureFile = "/gfx/sp_events/Super_Event_Trotsky.dds"
+	}
 }
